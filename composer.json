@@ -1,0 +1,15 @@
+{
+    "name": "julienr/blog",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Julien RAVIA",
+            "email": "julien.ravia@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
